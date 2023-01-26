@@ -1,9 +1,22 @@
-# AI_Conferences_2023
-
-Curated list of AI Conferences in 2023.
-
-| Core Edu Ranking | Conference Name | Conference Location | Submission Deadline | Notification | Conference Date | Website |
-| :--------------: | :------------:  | :------------: | :----------------:  | :-------------: | :-------------: | : -----------: |
-
-
-
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+![image](https://user-images.githubusercontent.com/33202064/214781238-ca36d9d0-922d-4a2e-b7b7-c7acb7ffb9f5.png)
